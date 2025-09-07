@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.electrodepot.fr/",
+    "timestamp": "2025-09-07T21:06:17.873660",
+    "image_dimensions": [
+      5329,
+      1920,
+      3
+    ],
+    "detections": {
+      "logo_matches": [
+        {
+          "type": "logo_template_match",
+          "template": "3x.png",
+          "scale": 0.2,
+          "confidence": 0.7700997591018677,
+          "bbox": [
+            

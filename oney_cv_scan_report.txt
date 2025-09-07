@@ -1,0 +1,316 @@
+
+ONEY COMPUTER VISION SCANNING REPORT
+=====================================
+Scan Date: 2025-09-07 21:07:50
+Total Pages Scanned: 1
+Pages with Oney Detections: 1
+Detection Rate: 100.0%
+
+DETAILED RESULTS:
+
+============================================================
+URL: https://www.electrodepot.fr/
+Oney Detected: ✅ YES
+Total Detections: 90
+Average Confidence: 0.78
+
+LOGO_MATCHES:
+  - Type: logo_template_match
+    Confidence: 0.77
+    Location: (339, 402) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.78
+    Location: (338, 403) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.79
+    Location: (339, 403) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.78
+    Location: (253, 404) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.80
+    Location: (253, 405) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.80
+    Location: (342, 428) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.79
+    Location: (342, 429) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.81
+    Location: (257, 430) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.78
+    Location: (257, 431) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.81
+    Location: (345, 454) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.79
+    Location: (346, 454) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.77
+    Location: (261, 455) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.77
+    Location: (345, 455) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.77
+    Location: (260, 456) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.81
+    Location: (261, 456) Size: 21x26
+
+  - Type: logo_template_match
+    Confidence: 0.79
+    Location: (1002, 3349) Size: 31x39
+
+  - Type: logo_template_match
+    Confidence: 0.78
+    Location: (1002, 3350) Size: 31x39
+
+  - Type: logo_template_match
+    Confidence: 0.77
+    Location: (338, 403) Size: 21x23
+
+  - Type: logo_template_match
+    Confidence: 0.78
+    Location: (339, 403) Size: 21x23
+
+  - Type: logo_template_match
+    Confidence: 0.79
+    Location: (253, 405) Size: 21x23
+
+  - Type: logo_template_match
+    Confidence: 0.79
+    Location: (342, 429) Size: 21x23
+
+  - Type: logo_template_match
+    Confidence: 0.79
+    Location: (257, 431) Size: 21x23
+
+  - Type: logo_template_match
+    Confidence: 0.77
+    Location: (345, 454) Size: 21x23
+
+  - Type: logo_template_match
+    Confidence: 0.79
+    Location: (345, 455) Size: 21x23
+
+  - Type: logo_template_match
+    Confidence: 0.79
+    Location: (261, 456) Size: 21x23
+
+  - Type: logo_template_match
+    Confidence: 0.77
+    Location: (261, 457) Size: 21x23
+
+  - Type: logo_template_match
+    Confidence: 0.77
+    Location: (1001, 3350) Size: 32x35
+
+
+WIDGET_DETECTIONS:
+  - Type: payment_widget_shape
+    Location: (722, 4603) Size: 43x23
+
+  - Type: payment_widget_shape
+    Location: (653, 4603) Size: 43x23
+
+  - Type: payment_widget_shape
+    Location: (800, 4567) Size: 43x23
+
+  - Type: brand_color_blue
+    Location: (1004, 3112) Size: 88x105
+
+  - Type: brand_color_blue
+    Location: (969, 3016) Size: 72x195
+
+  - Type: brand_color_blue
+    Location: (1124, 3015) Size: 226x84
+
+  - Type: brand_color_blue
+    Location: (980, 2828) Size: 84x84
+
+  - Type: brand_color_blue
+    Location: (408, 2497) Size: 83x103
+
+  - Type: brand_color_blue
+    Location: (213, 2280) Size: 565x173
+
+  - Type: brand_color_blue
+    Location: (657, 2052) Size: 77x36
+
+  - Type: brand_color_blue
+    Location: (760, 2009) Size: 107x57
+
+  - Type: brand_color_blue
+    Location: (327, 1981) Size: 75x50
+
+  - Type: brand_color_blue
+    Location: (502, 1937) Size: 96x57
+
+  - Type: brand_color_blue
+    Location: (1424, 1917) Size: 72x49
+
+  - Type: brand_color_blue
+    Location: (416, 1907) Size: 77x73
+
+  - Type: brand_color_blue
+    Location: (1616, 1895) Size: 72x62
+
+  - Type: brand_color_blue
+    Location: (1422, 1891) Size: 75x35
+
+  - Type: brand_color_blue
+    Location: (1195, 1133) Size: 83x47
+
+  - Type: brand_color_blue
+    Location: (634, 1115) Size: 46x57
+
+  - Type: brand_color_orange
+    Location: (1399, 4269) Size: 172x54
+
+  - Type: brand_color_orange
+    Location: (418, 4080) Size: 59x43
+
+  - Type: brand_color_orange
+    Location: (1371, 4060) Size: 228x49
+
+  - Type: brand_color_orange
+    Location: (1021, 4032) Size: 105x40
+
+  - Type: brand_color_orange
+    Location: (306, 3943) Size: 43x178
+
+  - Type: brand_color_orange
+    Location: (485, 3923) Size: 53x200
+
+  - Type: brand_color_orange
+    Location: (507, 3750) Size: 50x50
+
+  - Type: brand_color_orange
+    Location: (1506, 2800) Size: 165x73
+
+  - Type: brand_color_orange
+    Location: (1606, 2670) Size: 60x60
+
+  - Type: brand_color_orange
+    Location: (1302, 2670) Size: 60x60
+
+  - Type: brand_color_orange
+    Location: (1000, 2670) Size: 60x60
+
+  - Type: brand_color_orange
+    Location: (1445, 2602) Size: 75x31
+
+  - Type: brand_color_orange
+    Location: (839, 2602) Size: 75x31
+
+  - Type: brand_color_orange
+    Location: (1210, 2364) Size: 97x57
+
+  - Type: brand_color_orange
+    Location: (920, 2359) Size: 53x50
+
+  - Type: brand_color_orange
+    Location: (1458, 2346) Size: 52x85
+
+  - Type: brand_color_orange
+    Location: (1155, 2346) Size: 43x30
+
+  - Type: brand_color_orange
+    Location: (852, 2346) Size: 43x30
+
+  - Type: brand_color_orange
+    Location: (737, 1928) Size: 71x78
+
+  - Type: brand_color_orange
+    Location: (1312, 1859) Size: 32x57
+
+  - Type: brand_color_orange
+    Location: (1164, 1859) Size: 48x57
+
+  - Type: brand_color_orange
+    Location: (1043, 1859) Size: 41x57
+
+  - Type: brand_color_orange
+    Location: (1206, 1858) Size: 49x58
+
+  - Type: brand_color_orange
+    Location: (1092, 1858) Size: 41x58
+
+  - Type: brand_color_orange
+    Location: (987, 1858) Size: 49x58
+
+  - Type: brand_color_orange
+    Location: (1352, 1857) Size: 41x60
+
+  - Type: brand_color_orange
+    Location: (1260, 1857) Size: 42x60
+
+  - Type: brand_color_orange
+    Location: (1607, 1400) Size: 60x60
+
+  - Type: brand_color_orange
+    Location: (1304, 1400) Size: 60x60
+
+  - Type: brand_color_orange
+    Location: (1001, 1400) Size: 60x60
+
+  - Type: brand_color_orange
+    Location: (698, 1400) Size: 60x60
+
+  - Type: brand_color_orange
+    Location: (395, 1400) Size: 60x60
+
+  - Type: brand_color_orange
+    Location: (234, 1332) Size: 75x31
+
+  - Type: brand_color_orange
+    Location: (550, 1101) Size: 43x30
+
+  - Type: brand_color_orange
+    Location: (234, 1056) Size: 153x29
+
+  - Type: brand_color_orange
+    Location: (1476, 628) Size: 212x69
+
+  - Type: brand_color_orange
+    Location: (1193, 606) Size: 58x58
+
+  - Type: brand_color_orange
+    Location: (709, 558) Size: 419x139
+
+  - Type: brand_color_orange
+    Location: (739, 430) Size: 228x113
+
+  - Type: brand_color_orange
+    Location: (1068, 301) Size: 97x65
+
+  - Type: brand_color_orange
+    Location: (1177, 247) Size: 511x414
+
+  - Type: brand_color_orange
+    Location: (1172, 247) Size: 44x142
+
+  - Type: brand_color_orange
+    Location: (243, 80) Size: 60x60
+
+  - Type: brand_color_orange
+    Location: (1369, 74) Size: 60x60
+
